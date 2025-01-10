@@ -10,7 +10,6 @@ RecScan is a Python-based tool for analyzing DNS records of domains. It checks v
 - **Single and Bulk Domain Support**: Analyze a single domain or a list of domains from a file.
 - **Excel Export**: Save DNS analysis results to an Excel file for better visualization and documentation.
 - **Color-Coded Output**: Displays results in a color-coded format for better readability.
-- **Beautiful ASCII Art**: Enjoy colorful ASCII art during execution.
 
 ---
 
