@@ -17,7 +17,7 @@ RecScan is a Python-based tool for analyzing DNS records of domains. It checks v
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-repository>/RecScan.git
+   git clone https://github.com/RecScan/RecScan.git
    cd RecScan
    ```
 
